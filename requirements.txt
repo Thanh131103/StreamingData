@@ -1,0 +1,9 @@
+appdirs==1.4.4
+confluent-kafka==2.4.0
+lxml==5.2.2
+packaging==24.0
+py4j==0.10.9.7
+pyshark==0.6
+pyspark==3.5.1
+simplejson==3.19.2
+termcolor==2.4.0
